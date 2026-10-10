@@ -2,7 +2,7 @@
 
 | 阶段 | 内容 | 状态 |
 |---|---|---|
-| M0 | 定位 README + 本路线图 | 进行中 |
+| M0 | 定位 README + 本路线图 + CHECKLIST | 完成 |
 | M1 | `usr/themes/AiTypecho/` 骨架 + 首页/列表/文章占位 | 未开始 |
 | M2 | SEO meta / OG / JSON-LD | 未开始 |
 | M3 | AI 栏目模板 | 未开始 |

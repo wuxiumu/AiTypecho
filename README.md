@@ -20,7 +20,7 @@
 3. **M3**：AI 相关栏目模板（工具评测 / Prompt 笔记 / 周报）  
 4. **M4**：可演示的静态样例站 + 安装说明  
 
-详见 `docs/ROADMAP.md`。
+详见 `docs/ROADMAP.md`、`docs/CHECKLIST-M0.md`。
 
 ## 定制合作（可报价）
 
